@@ -1,3 +1,9 @@
+## In plain English
+
+This project helps a grocery catalogue team find products that may have been placed in the wrong category. It compares several automated checks and measures both useful catches and false alarms, so a person can focus on the products most worth reviewing.
+
+**Status:** Research experiment using public product data and a deliberately planted test set.
+
 # Catalogue checker: which products are filed in the wrong category?
 
 In a big online grocery catalogue, some products sit in the wrong category, and checking thousands by hand is slow. This project tests three ways of letting a computer do the first pass, on real public product data, and measures each one: how many misfiled products it catches, how often it cries wolf, and how fast it is.
